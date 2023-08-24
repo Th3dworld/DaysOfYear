@@ -1,4 +1,4 @@
-//Specification file for DaysOfYear class
+//Specification file for DaysOfYear class.
 #ifndef DAYSOFYEAR_H
 #define DAYSOFYEAR_H
 #include<string>
