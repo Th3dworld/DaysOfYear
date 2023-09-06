@@ -1,4 +1,4 @@
-//This is the implementation file of the days of year class
+//This is the implementation file of the days of year class.
 #include "DaysOfYear.h"
 #include<iostream>
 #include<string>
